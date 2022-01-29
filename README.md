@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="image/ClickBefore.png" width="100" height="100" alt="EatEnderMo"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="static/image/ClickBefore.png" width="100" height="100" alt="EatEnderMo"></a>
 </p>
 <div align="center">
 
